@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://8songs.xyz/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://8songs.xyz/posts/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://8songs.xyz/posts/week0/</loc>
+    <lastmod>2021-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://8songs.xyz/categories/</loc>
   </url><url>

@@ -1,7 +1,7 @@
 ---
 title: "Week 0"
 date: 2021-12-19
-draft: true
+draft: false
 ---
 ![](/img/week0/week0.png)
 
