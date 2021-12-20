@@ -1,0 +1,10 @@
+baseURL = "http://8songs.xyz"
+title = "8 Songs"
+theme = "paper"
+
+
+[params]
+  disableHLJS = false                         # don't use highlight.js
+  twitter = 'luketurcotte'                # twitter.com/YOUR_TWITTER_ID
+  github = 'luketurcotte'                  # github.com/YOUR_GITHUB_ID
+  instagram = 'luketurcotte'            # instagram.com/YOUR_INSTAGRAM_ID
